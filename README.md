@@ -1,3 +1,8 @@
+---
+description: 'Documentation for the custom agents in this directory.'
+name: 'Agents README'
+---
+
 # agents
 
 A collection of custom GitHub Copilot coding agents tailored for game development with Unity and C#. These agents live in `.github/agents/` and appear automatically in the Copilot agent picker inside VS Code (1.99+) and on GitHub.com.
